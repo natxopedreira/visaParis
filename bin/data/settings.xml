@@ -1,0 +1,12 @@
+<properties>
+    <velocidadMax>84</velocidadMax>
+    <velocidadMin>0</velocidadMin>
+    <modo_interaccion>0</modo_interaccion>
+    <leapMax>500</leapMax>
+    <talloMax>41</talloMax>
+    <talloMin>-11</talloMin>
+    <imuPort>COM5</imuPort>
+    <playerIndex>3</playerIndex>
+    <curva>0.17</curva>
+    <leapMin>52</leapMin>
+</properties>

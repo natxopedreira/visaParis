@@ -1,0 +1,70 @@
+﻿Build started 08/12/2015 17:54:20.
+     1>Project "C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\acuraGui09.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Release\) contains files shared from another project (acuraGui09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\graphics /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\app /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\sound /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\utils /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\communication /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\video /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\types /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\math /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\3d /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\gl /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openFrameworks\events /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glut\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\rtAudio\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\quicktime\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\freetype\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\freetype\include\freetype2 /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\freeImage\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\fmodex\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\videoInput\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glew\include\ /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glu\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\tess2\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\cairo\include\cairo /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\poco\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glfw\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openssl\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\utf8cpp\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\boost\include /IC:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\addons /Isrc /I..\..\..\addons\ofxBlur\src /I..\..\..\addons\ofxDatGui\src /I..\..\..\addons\ofxDatGui\src\components /I..\..\..\addons\ofxDatGui\src\core /I..\..\..\addons\ofxDatGui\src\templates /I..\..\..\addons\ofxOsc\libs /I..\..\..\addons\ofxOsc\libs\oscpack /I..\..\..\addons\ofxOsc\libs\oscpack\src /I..\..\..\addons\ofxOsc\libs\oscpack\src\ip /I..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix /I..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32 /I..\..\..\addons\ofxOsc\libs\oscpack\src\osc /I..\..\..\addons\ofxOsc\src /I..\..\..\addons\ofxThinkgear\libs /I..\..\..\addons\ofxThinkgear\libs\ThinkGear.bundle /I..\..\..\addons\ofxThinkgear\libs\ThinkGear.bundle\Contents /I..\..\..\addons\ofxThinkgear\libs\ThinkGear.bundle\Contents\MacOS /I..\..\..\addons\ofxThinkgear\libs\ThinkGear.bundle\Contents\Resources /I..\..\..\addons\ofxThinkgear\libs\ThinkGear.bundle\Contents\Resources\English.lproj /I..\..\..\addons\ofxThinkgear\src /I..\..\..\addons\ofxTween\src /I..\..\..\addons\ofxTween\src\Easings /I..\..\..\addons\ofxXmlSettings\libs /I..\..\..\addons\ofxXmlSettings\src /I..\..\..\addons\ofxLeapMotion\src /I..\..\..\addons\ofxLeapMotion\libs\include /Zi /nologo /W3 /WX- /MP /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D POCO_STATIC /D CAIRO_WIN32_STATIC_BUILD /D DISABLE_SOME_FLOATING_POINT /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"obj\Release\\" /Fd"obj\Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\acuraGui09Paris.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\addons\ofxThinkgear\libs /LIBPATH:..\..\..\addons\ofxLeapMotion\libs\lib\winvs /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glut\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glfw\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\rtAudio\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\FreeImage\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\freetype\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\quicktime\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\fmodex\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\videoInput\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\cairo\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glew\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\glu\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\openssl\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\Poco\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\tess2\lib\vs\Win32 /LIBPATH:C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\boost\lib\vs\Win32 Leap.lib thinkgear.lib "cairo-static.lib" "pixman-1.lib" libpng.lib msimg32.lib OpenGL32.lib GLu32.lib kernel32.lib setupapi.lib Vfw32.lib comctl32.lib glut32.lib rtAudio.lib videoInput.lib libfreetype.lib FreeImage.lib qtmlClient.lib dsound.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib glew32s.lib fmodex_vc.lib glu32.lib crypt32.lib libeay32MD.lib ssleay32MD.lib PocoFoundationmd.lib PocoNetmd.lib PocoUtilmd.lib PocoXMLmd.lib Ws2_32.lib tess2.lib glfw3.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:PocoFoundationd.lib /NODEFAULTLIB:atlthunk.lib /NODEFAULTLIB:LIBC.lib /NODEFAULTLIB:LIBCMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"bin\acuraGui09Paris.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE:NO /NXCOMPAT /IMPLIB:"bin\acuraGui09Paris.lib" /MACHINE:X86 /SAFESEH obj\Release\icon.res
+         obj\Release\ofxLeapMotion.obj
+         obj\Release\main.obj
+         obj\Release\ofApp.obj
+         obj\Release\guiScreen.obj
+         obj\Release\ofxBlur.obj
+         obj\Release\ofxDatGuiComponent.obj
+         obj\Release\ofxDatGui.obj
+         obj\Release\ofxDatGuiTemplate.obj
+         obj\Release\ofxOscBundle.obj
+         obj\Release\ofxOscMessage.obj
+         obj\Release\ofxOscParameterSync.obj
+         obj\Release\ofxOscReceiver.obj
+         obj\Release\ofxOscSender.obj
+         obj\Release\IpEndpointName.obj
+         obj\Release\NetworkingUtils.obj
+         obj\Release\UdpSocket.obj
+         obj\Release\OscOutboundPacketStream.obj
+         obj\Release\OscPrintReceivedElements.obj
+         obj\Release\OscReceivedElements.obj
+         obj\Release\OscTypes.obj
+         obj\Release\ofxThinkgear.obj
+         obj\Release\ThinkgearCommsDriver.obj
+         obj\Release\ThinkGearStreamParser.obj
+         obj\Release\ofxEasing.obj
+         obj\Release\ofxEasingBack.obj
+         obj\Release\ofxEasingBounce.obj
+         obj\Release\ofxEasingCirc.obj
+         obj\Release\ofxEasingCubic.obj
+         obj\Release\ofxEasingElastic.obj
+         obj\Release\ofxEasingExpo.obj
+         obj\Release\ofxEasingLinear.obj
+         obj\Release\ofxEasingQuad.obj
+         obj\Release\ofxEasingQuart.obj
+         obj\Release\ofxEasingQuint.obj
+         obj\Release\ofxEasingSine.obj
+         obj\Release\ofxTween.obj
+         obj\Release\ofxXmlSettings.obj
+         obj\Release\tinyxml.obj
+         obj\Release\tinyxmlerror.obj
+         obj\Release\tinyxmlparser.obj
+         C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\lib\vs\Win32\openframeworksLib.lib
+            Creating library bin\acuraGui09Paris.lib and object bin\acuraGui09Paris.exp
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         acuraGui09.vcxproj -> C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\acuraGui09Paris.exe
+       PostBuildEvent:
+         robocopy "C:\Users\natxo\Documents\of_v0.9.0_vs_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\/export/vs/Win32/" "C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin/" "*.dll" /njs /njh /np /fp /bytes
+         if errorlevel 1 exit 0 else exit %errorlevel%
+         :VCEnd
+         
+         	                   9	C:\Users\natxo\Documents\of_v0.9.0_vs_release\export\vs\Win32\
+         	  *Archivo EXTRA		 1628464	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\Leap.dll
+         	  *Archivo EXTRA		 2804016	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\Leapd.dll
+         	  *Archivo EXTRA		  455328	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\msvcp120.dll
+         	  *Archivo EXTRA		  815272	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\msvcp120d.dll
+         	  *Archivo EXTRA		  970912	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\msvcr120.dll
+         	  *Archivo EXTRA		 1824424	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\msvcr120d.dll
+         	  *Archivo EXTRA		  557056	C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\bin\thinkgear.dll
+     1>Done Building Project "C:\Users\natxo\Documents\of_v0.9.0_vs_release\apps\myApps\acuraGui09Paris\acuraGui09.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.34

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F581D67C-2100-49FB-84CD-6C1A2673A1DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>visaParis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02D3353395BF7BD07A3C33BB6CABFE2288F910A3</key>
+		<string>https://github.com/natxopedreira/acuraGui09.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>visaParis.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02D3353395BF7BD07A3C33BB6CABFE2288F910A3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/natxopedreira/acuraGui09.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>02D3353395BF7BD07A3C33BB6CABFE2288F910A3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02D3353395BF7BD07A3C33BB6CABFE2288F910A3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>visaParis</string>
+		</dict>
+	</array>
+</dict>
+</plist>
